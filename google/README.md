@@ -6,7 +6,7 @@ Package used: firebase_auth, google_sign_in
 Medium tutorial: Flutter Google SignIn Firebase Authentication
 
 # Note
-First complete all the steps to register your app on Firebase, then clone this project and all your google-services,json file. 
+First complete all the steps to register your app on Firebase, then clone this project and add your google-services.json file. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
